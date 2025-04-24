@@ -7,6 +7,13 @@
     "text": "This is my new tab!"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "x &lt;- 1 + 5 \nx\n\n[1] 6"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio",
@@ -14,10 +21,10 @@
     "text": "This is a Quarto website - TEST! I am testing how to edit this! Test! Test!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "NewSubTab.html",
+    "href": "NewSubTab.html",
+    "title": "New Sub Tab",
     "section": "",
-    "text": "x &lt;- 1 + 5 \nx\n\n[1] 6"
+    "text": "This is my new sub tab!"
   }
 ]

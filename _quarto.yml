@@ -15,6 +15,9 @@ website:
         text: About
       - href: NewTab.qmd
         text: New Tab
+      - href: NewSubTab.qmd
+        text: New Sub Tab
+        
 
 format:
   html:

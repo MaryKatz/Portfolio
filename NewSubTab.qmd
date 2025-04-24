@@ -1,0 +1,6 @@
+---
+title: "New Sub Tab"
+editor: visual
+---
+
+This is my new sub tab!
