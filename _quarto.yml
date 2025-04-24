@@ -11,7 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: NewTab.qmd
+        text: New Tab
 
 format:
   html:

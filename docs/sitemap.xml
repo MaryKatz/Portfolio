@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://MaryKatz.github.io/Portfolio/about.html</loc>
-    <lastmod>2025-04-24T19:38:21.771Z</lastmod>
+    <loc>https://MaryKatz.github.io/Portfolio/NewTab.html</loc>
+    <lastmod>2025-04-24T19:47:18.606Z</lastmod>
   </url>
   <url>
     <loc>https://MaryKatz.github.io/Portfolio/index.html</loc>
     <lastmod>2025-04-24T19:43:53.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MaryKatz.github.io/Portfolio/about.html</loc>
+    <lastmod>2025-04-24T19:38:21.771Z</lastmod>
   </url>
 </urlset>

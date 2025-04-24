@@ -1,0 +1,6 @@
+---
+title: "New Tab"
+editor: visual
+---
+
+This is my new tab!
