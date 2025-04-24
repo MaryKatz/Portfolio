@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "x &lt;- 1 + 5 \nx\n\n[1] 6"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "This is a Quarto website - TEST"
+    "text": "This is a Quarto website - TEST! I am testing how to edit this!"
   }
 ]
